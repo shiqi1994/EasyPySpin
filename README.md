@@ -1,6 +1,7 @@
 # EasyPySpin
 
 ## This is EasyPySpin for Python2.7. 
+Please download the folder ```EasyPySpin``` to '/home/user_name/.local/lib/python2.7/site-packages/```
 
 EasyPySpin is an unofficial wrapper for FLIR [Spinnaker SDK](https://www.flir.com/products/spinnaker-sdk/). This wrapper provides much the same way as the OpenCV VideoCapture class.
 
